@@ -1,6 +1,6 @@
-//Jose Izaac Robles Trinidad
-//Samir Dominguez Perez
-//Ervin Alexander Farrera Diego
+//Jose Izaac Robles Trinidad 20887023
+//Samir Dominguez Perez 20887005
+//Ervin Alexander Farrera Diego 20887049
 
 using System;
 using System.IO;
